@@ -35,10 +35,10 @@ User Query
 ## 📊 Screenshots
 
 ### 🔹 Chat Interface QA
-![Chat UI](imgs/img1)
+![Chat UI](imgs/img1.png)
 
 ### 🔹 Follow-up
-![RAG Output](imgs/img2)
+![RAG Output](imgs/img2.png)
 
 ---
 
