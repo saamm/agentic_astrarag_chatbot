@@ -7,7 +7,7 @@ load_dotenv()
 class DocIngestionSettings(BaseSettings):
     """Settings for document ingestion."""
     DOCUMENTS_DIR: str
-    VECTOR_STORE_dir: str
+    VECTOR_STORE_DIR: str
     COLLECTION_NAME: str
 
     class Config:
