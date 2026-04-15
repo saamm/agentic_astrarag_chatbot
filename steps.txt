@@ -6,7 +6,9 @@ python -m src.agents_src.check_crew
 
 python -m src.backend_src.main
 
- streamlit run src/frontend_src/app.py
+streamlit run src/frontend_src/app.py
+
+
 
 
 
